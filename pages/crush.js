@@ -20,12 +20,7 @@ function Crush() {
     <div className="crush-box">
       <div className="title">
         <div>
-          Tuấn có
-          <div className="color-porn-hub">
-            <div> đẹp </div>
-            <div> trai </div>
-          </div>
-          không?
+          THÁI có ĐẸP TRAI không?
         </div>
       </div>
       <button className="btn-click-me btn-yes" onClick={onClickYes}>
